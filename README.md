@@ -8,14 +8,26 @@ This project is an interactive web scraping tool designed to fetch job postings 
 
 ### Python libraries required   
 1. requests :Python requests is a library for making HTTP requests.
-to install this library run
-```pip install requests```
-2. beautifulsoup: Beautiful Soup is a library that makes it easy to scrape information from web pages.
-to install this library run
-```pip install beautifulsoup4```
+To install this library run
+```
+pip install requests
+```
+3. beautifulsoup: Beautiful Soup is a library that makes it easy to scrape information from web pages.
+To install this library run
+```
+pip install beautifulsoup4
+```
 
 ### To install this software  
-```git clone https://github.com/Saalim398/JobsScrapper.git```   
-```cd JobsScrapper```   
-```python main.py```  
+```
+git clone https://github.com/Saalim398/JobsScrapper.git
+```   
+```
+cd JobsScrapper
+```   
+```
+python main.py
+```
+
+License : MIT LICENSE
 

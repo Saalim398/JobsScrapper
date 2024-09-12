@@ -29,5 +29,5 @@ cd JobsScrapper
 python main.py
 ```
 
-##License    
+## License    
 This project is licensed under MIT LICENSE
